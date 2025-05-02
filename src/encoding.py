@@ -135,5 +135,6 @@ def _cli(argv: list[str] | None = None) -> None:
         sys.stderr.write(f"Error: {exc}\n")
         sys.exit(1)
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     _cli()
+    

@@ -4,7 +4,7 @@
 ## 功能清單
 cyber-dojo/
 ├─ src/
-│  ├─ encoding.py
+│  ├─ encoding.py   # 編碼、解碼
 │  ├─ hashing.py
 │  ├─ crypto/
 │  │   ├─ symmetric.py   # AES/ChaCha20
